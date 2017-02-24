@@ -1,5 +1,5 @@
 ## Project title :
- Predicting the word from brain activity  
+ Predicting the word from brain activity pattern  
  
 ##Problem Description : 
 Trying out different predictive models that will predict words corresponding to the fMRI scan observed when a person reads a noun from given set of words .    
